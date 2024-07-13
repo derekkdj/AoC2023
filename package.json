@@ -1,0 +1,12 @@
+{
+  "name": "AoC2023",
+  "version": "1.0.0",
+  "description": "my attempt at last year's aoc",
+  "main": "index.js",
+  "scripts": {
+    "start": "func() { node ./day-${1:-01}/index.js; }; func"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
